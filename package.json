@@ -10,13 +10,13 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+"
+        "url": "git+https://github.com/Nitz2611/Blog-creation-app"
     },
     "keywords": [],
     "author": "",
     "license": "ISC",
     "bugs": {
-        "url": ""
+        "url": "https://github.com/Nitz2611/Blog-creation-app/issues"
     },
-    "homepage": ""
+    "homepage": "https://github.com/Nitz2611/Blog-creation-app/blob/main/README.md"
 }
